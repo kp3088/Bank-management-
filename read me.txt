@@ -1,0 +1,11 @@
+In this console based app you can :-
+1. Generate admin password and Renew password
+2. After entering correct password, you can :
+   (a) Create customer account<br/>
+   (b) Display all customer's information
+   (c) Update a customer's information
+   (d) Delete a customer's account
+   (e) Search a customer's information by Account Number or Account Holder's Name
+   (f) Make Transaction
+
+	PRESENT PASSWORD -PASS
